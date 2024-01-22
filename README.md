@@ -7,7 +7,7 @@ This repository contains a clone of the landing page for the IT services website
 * Gain practical experience with Next.js and front-end development best practices.
 ### Technologies Used:
 
-* Front-end: Next.js, React, HTML, CSS (SCSS)
+* Front-end: Next.js, React, HTML, CSS (Tailwind CSS)
 * Image Optimization: Next.js Image component, sharp (image resizing), image compression tools (optional)
 ### Features:
 
