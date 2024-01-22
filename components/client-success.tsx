@@ -1,6 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
-import { ArrowRight } from "lucide-react";
 
 import services1 from "@/public/services-img1.jpg";
 import awwwards from "@/public/svg/awwwards.svg";

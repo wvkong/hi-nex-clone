@@ -1,5 +1,3 @@
-import Link from "next/link";
-import { ArrowRight } from "lucide-react";
 import { LinkButton } from "./link-button";
 
 export const CallToAction = () => {

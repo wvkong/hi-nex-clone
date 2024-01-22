@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowRight, Pin } from "lucide-react";
+import { Pin } from "lucide-react";
 
 import news1 from "@/public/news/1.jpg";
 import news2 from "@/public/news/2.jpg";

@@ -1,11 +1,10 @@
-import Link from "next/link";
 import {
-  ArrowRight,
   Circle,
   Megaphone,
   Monitor,
   Smartphone,
 } from "lucide-react";
+
 import { LinkButton } from "./link-button";
 
 export const Services = () => {

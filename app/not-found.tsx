@@ -1,6 +1,4 @@
 import { LinkButton } from "@/components/link-button";
-import { ArrowRight } from "lucide-react";
-import Link from "next/link";
 
 const NotFound = () => {
   return (
@@ -14,7 +12,7 @@ const NotFound = () => {
             <p className="my-5 text-white">
               We are currently working on this issue...
             </p>
-            <LinkButton href="/" title="Get To Homepage" />
+            <LinkButton prefetch href="/" title="Get To Homepage" />
           </div>
         </div>
       </div>
