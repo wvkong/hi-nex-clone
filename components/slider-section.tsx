@@ -22,6 +22,7 @@ export const SliderSection = () => {
               src={slider1}
               alt="slider1"
               placeholder="blur"
+              priority
               quality={100}
               sizes="100vw"
               fill
@@ -51,6 +52,7 @@ export const SliderSection = () => {
               src={slider2}
               alt="slider2"
               quality={100}
+              priority
               sizes="100vw"
               fill
               className="object-cover"

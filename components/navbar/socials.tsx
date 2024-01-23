@@ -43,7 +43,7 @@ export const Socials = () => {
   return (
     <Sheet>
       <SheetTrigger>
-        <Grip className="h-7 w-7 text-[#022d62]" />
+        <Grip aria-label="socials" className="h-7 w-7 text-[#022d62]" />
       </SheetTrigger>
       <SheetContent
         side="right"

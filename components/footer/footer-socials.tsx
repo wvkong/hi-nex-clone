@@ -35,7 +35,7 @@ export const FooterSocials = () => {
         <ul className="flex gap-10">
           {socialsMap.map((social) => (
             <li key={social.title}>
-              <Link href="/" prefetch={false}>
+              <Link aria-label={social.title} href="/" prefetch={false}>
                 <social.Icon
                   className={cn(
                     "h-7 w-7 fill-[#022d62] text-transparent transition duration-300 hover:fill-[#ef3139]",

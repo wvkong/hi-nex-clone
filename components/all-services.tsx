@@ -53,6 +53,7 @@ export const AllServices = () => {
                     and delivered within the timeline.
                   </p>
                   <Link
+                    aria-label="arrow"
                     prefetch={false}
                     href="/service-details/1"
                     className="absolute -bottom-[90px] flex h-10 w-10 items-center justify-center rounded-[50px] bg-[#ef3139] opacity-0 transition-all duration-300 ease-in-out group-hover:bottom-[45px] group-hover:opacity-100"
@@ -79,6 +80,7 @@ export const AllServices = () => {
                     networks, and electronics processes..
                   </p>
                   <Link
+                    aria-label="arrow"
                     prefetch={false}
                     href="/service-details/2"
                     className="absolute -bottom-[90px] flex h-10 w-10 items-center justify-center rounded-[50px] bg-[#ef3139] opacity-0 transition-all duration-300 ease-in-out group-hover:bottom-[45px] group-hover:opacity-100"
@@ -104,6 +106,7 @@ export const AllServices = () => {
                     mobile platforms, frameworks & environments
                   </p>
                   <Link
+                    aria-label="arrow"
                     prefetch={false}
                     href="/service-details/3"
                     className="absolute -bottom-[90px] flex h-10 w-10 items-center justify-center rounded-[50px] bg-[#ef3139] opacity-0 transition-all duration-300 ease-in-out group-hover:bottom-[45px] group-hover:opacity-100"
@@ -130,6 +133,7 @@ export const AllServices = () => {
                     effectively.
                   </p>
                   <Link
+                    aria-label="arrow"
                     prefetch={false}
                     href="/service-details/4"
                     className="absolute -bottom-[90px] flex h-10 w-10 items-center justify-center rounded-[50px] bg-[#ef3139] opacity-0 transition-all duration-300 ease-in-out group-hover:bottom-[45px] group-hover:opacity-100"
@@ -156,6 +160,7 @@ export const AllServices = () => {
                     formatting, and routing of single business events,
                   </p>
                   <Link
+                    aria-label="arrow"
                     prefetch={false}
                     href="/service-details/5"
                     className="absolute -bottom-[90px] flex h-10 w-10 items-center justify-center rounded-[50px] bg-[#ef3139] opacity-0 transition-all duration-300 ease-in-out group-hover:bottom-[45px] group-hover:opacity-100"
@@ -182,6 +187,7 @@ export const AllServices = () => {
                     brands can see major benefits.
                   </p>
                   <Link
+                    aria-label="arrow"
                     prefetch={false}
                     href="/service-details/6"
                     className="absolute -bottom-[90px] flex h-10 w-10 items-center justify-center rounded-[50px] bg-[#ef3139] opacity-0 transition-all duration-300 ease-in-out group-hover:bottom-[45px] group-hover:opacity-100"

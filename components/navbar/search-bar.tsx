@@ -14,7 +14,7 @@ export const SearchBar = () => {
   return (
     <Sheet>
       <SheetTrigger>
-        <Search className="h-7 w-7 text-[#022d62]" />
+        <Search aria-label="search" className="h-7 w-7 text-[#022d62]" />
       </SheetTrigger>
       <SheetContent side="top" className="bg-[#022d62] text-white">
         <div className="mx-auto my-20 w-full max-w-6xl font-body">

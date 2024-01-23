@@ -8,7 +8,7 @@ type LogoProps = {
 
 export const Logo = ({ isWhite }: LogoProps) => {
   return (
-    <Link prefetch={false} href="/">
+    <Link aria-label="logo" prefetch={false} href="/">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         width="148"

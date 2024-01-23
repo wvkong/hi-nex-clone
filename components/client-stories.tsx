@@ -50,6 +50,7 @@ export const ClientStories = () => {
                     it is just like any other process.
                   </p>
                   <Link
+                    aria-label="arrow"
                     prefetch={false}
                     href="/case-study-details/1"
                     className="flex h-10 w-10 items-center justify-center rounded-[50px] bg-[#ef3139] text-center text-xs text-white"
@@ -83,6 +84,7 @@ export const ClientStories = () => {
                     We all carry a lot of baggage, thanks to our upbringing...
                   </p>
                   <Link
+                    aria-label="arrow"
                     prefetch={false}
                     href="/case-study-details/2"
                     className="flex h-10 w-10 items-center justify-center rounded-[50px] bg-[#ef3139] text-center text-xs text-white"
@@ -117,6 +119,7 @@ export const ClientStories = () => {
                     original dock
                   </p>
                   <Link
+                    aria-label="arrow"
                     prefetch={false}
                     href="/case-study-details/3"
                     className="flex h-10 w-10 items-center justify-center rounded-[50px] bg-[#ef3139] text-center text-xs text-white"
@@ -151,6 +154,7 @@ export const ClientStories = () => {
                     inflict on our children...
                   </p>
                   <Link
+                    aria-label="arrow"
                     prefetch={false}
                     href="/case-study-details/4"
                     className="flex h-10 w-10 items-center justify-center rounded-[50px] bg-[#ef3139] text-center text-xs text-white"
